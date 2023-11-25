@@ -1,0 +1,22 @@
+{
+  "name": "data-structures-algorithms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harrisonJones12/Data-Structures-Algorithms-.git"
+  },
+  "author": "Harrison Jones",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harrisonJones12/Data-Structures-Algorithms-/issues"
+  },
+  "homepage": "https://github.com/harrisonJones12/Data-Structures-Algorithms-#readme",
+  "devDependencies": {
+    "typescript": "^5.3.2"
+  }
+}

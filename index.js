@@ -105,4 +105,4 @@ const validAnagram = (string1, string2) => {
 
 }
 
-validAnagram('anagram', 'nagaram');
+console.log(validAnagram('anagram', 'nagaram'));

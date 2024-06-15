@@ -1,7 +1,7 @@
 const validAnagram = (word1, word2) => {
     const frequencyCounterObj1 = {};
     const frequencyCounterObj2 = {};
-  
+  // frequency counter algo
   if(word1.length !== word2.length ){
     return false;
   }
